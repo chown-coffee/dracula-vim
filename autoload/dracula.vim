@@ -26,18 +26,18 @@ let g:dracula#palette.yellow    = ['#8758A9', 228]
 "
 " ANSI
 "
-let g:dracula#palette.color_0  = '#21222C'
+let g:dracula#palette.color_0  = '#08050B'
 let g:dracula#palette.color_1  = '#624480'
 let g:dracula#palette.color_2  = '#9F78E1'
-let g:dracula#palette.color_3  = '#9567AF'
+let g:dracula#palette.color_3  = '#274595'
 let g:dracula#palette.color_4  = '#BD93F9'
 let g:dracula#palette.color_5  = '#FF79C6'
-let g:dracula#palette.color_6  = '#8BE9FD'
+let g:dracula#palette.color_6  = '#AC5DFD'
 let g:dracula#palette.color_7  = '#F8F8F2'
 let g:dracula#palette.color_8  = '#6272A4'
 let g:dracula#palette.color_9  = '#472d5f'
-let g:dracula#palette.color_10 = '#9F78E1'
-let g:dracula#palette.color_11 = '#9567AF'
+let g:dracula#palette.color_10 = '#562F93'
+let g:dracula#palette.color_11 = '#274595'
 let g:dracula#palette.color_12 = '#D6ACFF'
 let g:dracula#palette.color_13 = '#FF92DF'
 let g:dracula#palette.color_14 = '#A4FFFF'
