@@ -19,7 +19,7 @@ let g:dracula#palette.cyan      = ['#7A92F4', 117]
 let g:dracula#palette.green     = ['#BD93F9',  84]
 let g:dracula#palette.orange    = ['#B9BDCF', 215]
 let g:dracula#palette.pink      = ['#AA66FF', 212]
-let g:dracula#palette.purple    = ['#9F78E1', 141]
+let g:dracula#palette.purple    = ['#BD93F9', 141]
 let g:dracula#palette.red       = ['#624480', 203]
 let g:dracula#palette.yellow    = ['#8758A9', 228]
 
