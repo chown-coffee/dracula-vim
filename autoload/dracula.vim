@@ -28,7 +28,7 @@ let g:dracula#palette.yellow    = ['#8758A9', 228]
 "
 let g:dracula#palette.color_0  = '#08050B'
 let g:dracula#palette.color_1  = '#624480'
-let g:dracula#palette.color_2  = '#9F78E1'
+let g:dracula#palette.color_2  = '#562F93'
 let g:dracula#palette.color_3  = '#274595'
 let g:dracula#palette.color_4  = '#BD93F9'
 let g:dracula#palette.color_5  = '#FF79C6'
